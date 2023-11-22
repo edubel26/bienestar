@@ -1,0 +1,7 @@
+
+alert("Acompañante registrado ")
+       
+
+           
+
+ 
